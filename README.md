@@ -1,4 +1,5 @@
-# 	public class Program
+# 	
+	public class Program
 	{
 	static double factorial(int x)
 	{
